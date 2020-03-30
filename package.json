@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "google-map-react": "^1.1.4",
+    "lodash.template": "^4.5.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-intl": "^4.0.0",
