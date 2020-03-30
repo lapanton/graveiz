@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ec2af9e-9c08-4e80-ad55-35c090d6f07a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dependabot/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.dependabot/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +115,7 @@
       <workItem from="1584687432924" duration="1221000" />
       <workItem from="1584690305605" duration="1164000" />
       <workItem from="1584693267343" duration="5846000" />
-      <workItem from="1585569808227" duration="1675000" />
+      <workItem from="1585569808227" duration="1883000" />
     </task>
     <task id="LOCAL-00001" summary="add vulnerability config">
       <created>1584538647365</created>
@@ -249,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585571714057</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add lodash template">
+      <created>1585572306098</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1585572306098</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,20 +273,21 @@
     <MESSAGE value="Add fixes in dependabot" />
     <MESSAGE value="Downgrade packages" />
     <MESSAGE value="remove snyk from readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove snyk from readme.md" />
+    <MESSAGE value="add lodash template" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lodash template" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="670" y="108" key="CommitChangelistDialog2" timestamp="1585571713922">
+    <state x="670" y="108" key="CommitChangelistDialog2" timestamp="1585572305957">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="670" y="108" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585571713922" />
+    <state x="670" y="108" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585572305957" />
     <state x="100" y="100" width="1480" height="850" key="VCS.FileHistoryDialog" timestamp="1585570968401">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="100" y="100" width="1480" height="850" key="VCS.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585570968401" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1585571716156">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1585572307950">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1585571716156" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1585572307950" />
   </component>
 </project>
