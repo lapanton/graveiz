@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ec2af9e-9c08-4e80-ad55-35c090d6f07a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.dependabot/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.dependabot/config.yml" afterDir="false" />
+    <list default="true" id="8ec2af9e-9c08-4e80-ad55-35c090d6f07a" name="Default Changelist" comment="add many dependicies">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,7 +115,7 @@
       <workItem from="1584687432924" duration="1221000" />
       <workItem from="1584690305605" duration="1164000" />
       <workItem from="1584693267343" duration="5846000" />
-      <workItem from="1585569808227" duration="1883000" />
+      <workItem from="1585569808227" duration="2500000" />
     </task>
     <task id="LOCAL-00001" summary="add vulnerability config">
       <created>1584538647365</created>
@@ -257,7 +257,28 @@
       <option name="project" value="LOCAL" />
       <updated>1585572306098</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add js-yaml">
+      <created>1585572517419</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1585572517419</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add js-yaml">
+      <created>1585572556786</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1585572556786</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add many dependicies">
+      <created>1585572645335</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1585572645335</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,20 +295,22 @@
     <MESSAGE value="Downgrade packages" />
     <MESSAGE value="remove snyk from readme.md" />
     <MESSAGE value="add lodash template" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lodash template" />
+    <MESSAGE value="Add js-yaml" />
+    <MESSAGE value="add many dependicies" />
+    <option name="LAST_COMMIT_MESSAGE" value="add many dependicies" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="670" y="108" key="CommitChangelistDialog2" timestamp="1585572556665">
+    <state x="670" y="108" key="CommitChangelistDialog2" timestamp="1585573169871">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="670" y="108" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585572556665" />
+    <state x="670" y="108" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585573169871" />
     <state x="100" y="100" width="1480" height="850" key="VCS.FileHistoryDialog" timestamp="1585570968401">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="100" y="100" width="1480" height="850" key="VCS.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585570968401" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1585572558460">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1585572647483">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1585572558460" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1585572647483" />
   </component>
 </project>
