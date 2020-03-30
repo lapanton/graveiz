@@ -1,5 +1,3 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/lapanton/graveiz/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
