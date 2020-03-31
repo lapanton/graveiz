@@ -21,24 +21,24 @@
     "browser-sync": "^2.14.0",
     "del": "^2.2.2",
     "eslint-config-google": "^0.14.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-babel": "^7.0.1",
     "gulp-cache": "^0.4.5",
     "gulp-concat": "^2.6.0",
     "gulp-cssnano": "^2.1.2",
-    "gulp-eslint": "^1.1.1",
-    "gulp-htmlmin": "^2.0.0",
+    "gulp-eslint": "^4.0.0",
+    "gulp-htmlmin": "^3.0.0",
     "gulp-if": "^2.0.1",
-    "gulp-imagemin": "^2.4.0",
+    "gulp-imagemin": "^3.0.0",
     "gulp-load-plugins": "^1.2.4",
     "gulp-newer": "^1.4.0",
-    "gulp-sass": "^2.3.2",
+    "gulp-sass": "^3.0.0",
     "gulp-size": "^2.1.0",
     "gulp-sourcemaps": "^1.6.0",
     "gulp-uglify": "^1.5.4",
     "gulp-useref": "^3.1.0",
-    "psi": "^2.0.4",
+    "psi": "^4.0.1",
     "run-sequence": "^1.0.1",
     "sw-precache": "^3.2.0",
     "sw-toolbox": "^3.6.0",
@@ -52,16 +52,19 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-import": "^2.12.0",
     "express": "^4.16.3",
-    "jest": "^23.1.0",
-    "lerna": "^2.11.0",
+    "jest": "^24.0.0",
+    "lerna": "^3.0.0",
     "prettier": "^1.13.5",
-    "puppeteer": "^1.5.0"
+    "puppeteer": "^1.5.0",
+    "snyk": "^1.305.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -74,5 +77,6 @@
   ],
   "devDependencies": {
     "babel-plugin-module-resolver": "^4.0.0"
-  }
+  },
+  "snyk": true
 }
